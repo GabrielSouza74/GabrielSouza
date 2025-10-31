@@ -110,7 +110,7 @@ function App() {
           </p>
 
           <a
-            href="https://wa.me/5511999999999"
+            href="https://wa.me/message/TGYC67MX6TCXJ1"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-8 py-4 rounded-full text-white font-semibold text-lg transition-all duration-300 hover:scale-105 hover:shadow-xl"
@@ -222,7 +222,7 @@ function App() {
           </p>
 
           <a
-            href="https://wa.me/5511999999999"
+            href="https://wa.me/message/TGYC67MX6TCXJ1"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-10 py-5 rounded-full text-white font-bold text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl"
